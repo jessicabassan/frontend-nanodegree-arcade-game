@@ -1,21 +1,28 @@
-# Classic Arcade Game Clone Project
+# Front-End Nanodegree Arcade Game Clone
 
-## Table of Contents
+Este é um projeto de avaliação do curso Nanodegree.
+O projeto contepla o clone de um Arcade Game para testar conhecimentos de lógica de  programação, Javascript orientado à objeto e Canvas.
 
-- [Instructions](#instructions)
-- [Contributing](#contributing)
+## Inicialização do projeto
 
-## Instructions
+Para iniciar o projeto você deve abrir o arquivo index.html em um navegador.
 
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
+### Pré Requisitos
 
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
+O único pré requisito para rodar este projeto é:
 
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
+```
+Browser atual que suporte canvas
+```
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+### Instalação
 
-## Contributing
+Faça download ou clone esse repositório.
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-# frontend-nanodegree-arcade-game
+```
+Abra o arquivo index.html em um Browser atualizado
+```
+
+## Autora
+
+* **Jéssica Bassan** - [GitHub](https://github.com/jessicabassan)
